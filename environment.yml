@@ -1,0 +1,17 @@
+name: snow-cover-kri
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy>=1.24
+  - pandas>=2.0
+  - scipy>=1.10
+  - matplotlib>=3.7
+  - openpyxl>=3.1
+  - xarray>=2023.1
+  - netCDF4>=1.6
+  - geopandas>=0.13
+  - jupyterlab>=4.0
+  - pip
+  - pip:
+      - earthengine-api>=0.1.380

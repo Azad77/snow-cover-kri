@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: >-
+  Snow cover and mean snow elevation in the mountainous Kurdistan Region of Iraq,
+  2000-2024: data and analysis code
+message: >-
+  If you use this software or these data, please cite both the repository and the
+  associated article.
+type: software
+authors:
+  - family-names: Hanaraiy
+    given-names: Rizgar Mohammed Othman
+    affiliation: Department of Geography, Soran University, Soran, Erbil, Iraq
+    email: rizgar.usman@soran.edu.iq
+    # orcid: 'https://orcid.org/0000-0000-0000-0000'
+  - family-names: Rasul
+    given-names: Azad
+    affiliation: >-
+      Department of Forestry, College of Agricultural Engineering Sciences,
+      Salahaddin University-Erbil, Iraq
+    # orcid: 'https://orcid.org/0000-0000-0000-0000'
+license: MIT
+keywords:
+  - snow cover
+  - MODIS
+  - climate change
+  - Zagros Mountains
+  - Kurdistan Region of Iraq
+  - attribution
+repository-code: 'https://github.com/USERNAME/snow-cover-kri'
+preferred-citation:
+  type: article
+  title: >-
+    Snow Cover and Mean Snow Elevation Dynamics as Climate Change Indicators in the
+    Mountainous Kurdistan Region of Iraq (2000-2024)
+  authors:
+    - family-names: Hanaraiy
+      given-names: Rizgar Mohammed Othman
+    - family-names: Rasul
+      given-names: Azad
+  journal: Journal of Mountain Science
+  year: 2026
+  # doi: '10.1007/s11629-XXX-XXXX-X'

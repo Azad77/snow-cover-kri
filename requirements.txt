@@ -1,0 +1,17 @@
+# core analysis - notebooks 01, 03, 04, 05, 06
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+openpyxl>=3.1
+
+# reanalysis download for the NCP and MOI indices (notebook 03, optional cell)
+xarray>=2023.1
+netCDF4>=1.6
+
+# Google Earth Engine extractions - notebooks 02 and 07
+earthengine-api>=0.1.380
+geopandas>=0.13
+
+# notebook environment
+jupyterlab>=4.0

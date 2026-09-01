@@ -1,0 +1,26 @@
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# jupyter
+*.nbconvert.ipynb
+
+# os
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# office lock files and manuscript drafts - the repository holds data and code only
+~$*
+*.docx
+*.doc
+*.pdf
+
+# credentials - never commit these
+.env
+*credentials*.json
+.config/earthengine/
